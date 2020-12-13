@@ -1,0 +1,1 @@
+Note that on line 32 in the video, I forgot a second argument in the check statement. This is fixed in the code (and in subsequent videos).
